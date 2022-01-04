@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.blog-1{
+    color: darkgoldenrod;
+}
+section{
+    display:flex ;
+}
+.blog2{
+    width: 50%;
+    padding: 4%;
+}
+.blog2 img{
+    width: 82%;
+}
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: floralwhite;
+    padding: 10px 40px ;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.top-banner{
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
