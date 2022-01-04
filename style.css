@@ -5,7 +5,7 @@ body{
 .blog-1{
     color: darkgoldenrod;
 }
-section{
+.flexiable{
     display:flex ;
     margin-bottom: 70px;
 }
