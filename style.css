@@ -7,10 +7,12 @@ body{
 }
 section{
     display:flex ;
+    margin-bottom: 70px;
 }
 .blog2{
     width: 50%;
     padding: 4%;
+    
 }
 .blog2 img{
     width: 82%;
@@ -26,4 +28,9 @@ section{
 .top-banner{
     background-image:url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dim-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
